@@ -34,13 +34,11 @@
   <a href="wa.me/5584988544815" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
+  https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/lucas">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lucas&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
