@@ -11,12 +11,11 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: **spring, react, python** <br><br>💬 Ask me about: **anything, I'll try my best** <br><br>⚡ Fun fact: **if it all goes wrong I'll try to be a musician** </p>
-- 🌱 I’m currently learning: **spring, react, nodejs**
+* 🌱 I’m currently learning: **spring, react, python**
 
-- 💬 Ask me about: **anything, I'll try my best**
+* 💬 Ask me about: **anything, I'll try my best**
 
-- ⚡ Fun fact: **if it all goes wrong I'll try to be a musician**
+* ⚡ Fun fact: **if it all goes wrong I'll try to be a musician**
 
 ###
 
