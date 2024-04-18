@@ -1,6 +1,12 @@
-<h2 align="left">Hey, ya!</h2>
+<h2 align="left">Hey, ya! I'm André Lucas</h2>
 
 ###
+
+- 🌱 I’m currently learning **spring, react, nodejs**
+
+- 💬 Ask me about **anything, I'll try my best**
+
+- ⚡ Fun fact **if it all goes wrong I'll try to be a musician**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
@@ -46,11 +52,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **spring, react, nodejs**
 
-- 💬 Ask me about **anything, I'll try my best**
-
-- ⚡ Fun fact **if it all goes wrong I'll try to be a musician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
