@@ -16,7 +16,6 @@
 * 💬 Ask me about: **anything, I'll try my best**
 
 * ⚡ Fun fact: **if it all goes wrong I'll try to be a musician**
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=feju6c63vil8p2z0stx8fs0a5&cover_image=true&theme=novatorem&show_offline=false&background_color=080808&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 
