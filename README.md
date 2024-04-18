@@ -2,11 +2,11 @@
 
 ###
 
-- 🌱 I’m currently learning **spring, react, nodejs**
+- 🌱 I’m currently learning:  **spring, react, nodejs**
 
-- 💬 Ask me about **anything, I'll try my best**
+- 💬 Ask me about:  **anything, I'll try my best**
 
-- ⚡ Fun fact **if it all goes wrong I'll try to be a musician**
+- ⚡ Fun fact:  **if it all goes wrong I'll try to be a musician**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
