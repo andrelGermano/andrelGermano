@@ -1,6 +1,6 @@
 <h1 align="left">Hey, ya! 👋 I'm André Lucas</h1>
 
-###
+---
 
 <h2 align="left">About me</h2>
 
