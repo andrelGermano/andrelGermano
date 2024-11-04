@@ -11,7 +11,7 @@
 
 ###
 
-* 🌱 I’m currently learning: **spring, react, python**
+* 🌱 I’m currently learning: **spring, python, flutter/dart**
 
 * 💬 Ask me about: **anything, I'll try my best**
 
